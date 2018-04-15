@@ -16,3 +16,16 @@
         width: calc((70% - 15px) / 3);
     }
 }
+
+@media screen and (min-width: 800px) {
+    #restaurant-img {
+        width: 50%;
+        order: 0;
+        display: inline-block;
+    }
+    #restaurant-table {
+        width: 50%;
+        order: 1;
+        display: inline-block;
+    }
+}
