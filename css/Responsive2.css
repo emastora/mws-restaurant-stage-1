@@ -20,12 +20,11 @@
 @media screen and (min-width: 800px) {
     #restaurant-img {
         width: 50%;
-        order: 0;
-        display: inline-block;
+        /* display: inline-block; */
     }
-    #restaurant-table {
+    .restaurant-table {
         width: 50%;
         order: 1;
-        display: inline-block;
+        /* display: inline-block; */
     }
 }
