@@ -85,3 +85,9 @@
         padding: 10px 5px 10px 20px;
     }
 }
+
+@media screen and (max-width: 375px) {
+    h1 {
+        font-size: 9pt;
+    }
+}

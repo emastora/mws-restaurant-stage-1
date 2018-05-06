@@ -352,7 +352,7 @@ nav h1 a {
 /* } */
 
 #reviews-container {
-    padding: 30px 0px 40px 80px;
+    padding: 30px 0px 40px 60px;
 }
 
 #restaurant-container {
@@ -386,7 +386,7 @@ nav h1 a {
 
 #reviews-list li p {
     margin: 0 5px;
-    font-size: 14pt;
+    font-size: 12pt;
 }
 
 #restaurant-hours td {
