@@ -398,16 +398,16 @@ nav h1 a {
     margin-right: auto;
 }
 
-.skip-link {
+
+/* .skip-link {
     position: relative;
     top: -40px;
     left: 0;
     background: rgb(221, 19, 32);
-    /* color: white; */
     padding: 8px;
     z-index: 100;
 }
 
 .skip-link:focus {
     top: 0;
-}
+} */
